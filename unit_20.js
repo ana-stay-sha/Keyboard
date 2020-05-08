@@ -1,5 +1,6 @@
 // Task 1 ============================================
 /* Дан input .i-1. Напишите функцию t1, которая выводит в .out-1 символ и возвращает его. Во всех последующих задачах - работаем с латиницей и цифрами.*/
+console.log('Git repozitoriy 1')
 
 function t1(event) {
     document.querySelector('.out-1').innerHTML += event.key;
